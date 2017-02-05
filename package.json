@@ -1,0 +1,24 @@
+{
+  "name": "request_header_parser",
+  "version": "1.0.0",
+  "description": "Completed as part of the FCC Backend Coding Challenges ##User Stories -  I can get the IP address, language and operating system for my browser.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.1",
+    "os": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swoodend/request_header_parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swoodend/request_header_parser/issues"
+  },
+  "homepage": "https://github.com/Swoodend/request_header_parser#readme"
+}
